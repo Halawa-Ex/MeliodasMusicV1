@@ -2,12 +2,12 @@
 
 ### ᴍᴇʟɪᴏᴅᴀꜱᴍᴜꜱɪᴄᴠ1 ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴜꜱᴇʀʙᴏᴛ ᴛᴏ ᴘʟᴀʏ ꜱᴏɴɢꜱ ᴀɴᴅ ᴠɪᴅᴇᴏꜱ ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ.
 
-<p align="center"><a href="https://t.me/OfficiallMeliodas"><img src="https://telegra.ph/file/03baab8774773b37933fb.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/OfficiallMeliodas"><img src="https://telegra.ph/file/6048be6ad973135ab1dce.jpg" width="300"></a></p>
 
 
 
 ### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ
-<a href="https://t.me/OfficiallMeliodas"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram">
+<a href="https://t.me/+tNX-D5CKxSk0NmY1"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram">
 
 ### ɢᴇɴᴇʀᴀᴛᴇ ᴘʏʀᴏɢʀᴀᴍ sᴛʀɪɴɢ sᴇssɪᴏɴ
 
