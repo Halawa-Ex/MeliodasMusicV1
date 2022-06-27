@@ -1,6 +1,6 @@
  <h2 align="centre">MeliodasMusicV1</h2>
 
-### ᴍᴇʟɪᴏᴅᴀꜱᴍᴜꜱɪᴄᴠ1 ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴜꜱᴇʀʙᴏᴛ ᴛᴏ ᴘʟᴀʏ ꜱᴏɴɢꜱ ᴀɴᴅ ᴠɪᴅᴇᴏꜱ ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ.
+### ᴍᴇʟɪᴏᴅᴀꜱ ᴍᴜꜱɪᴄᴠ1 ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴜꜱᴇʀʙᴏᴛ ᴛᴏ ᴘʟᴀʏ ꜱᴏɴɢꜱ ᴀɴᴅ ᴠɪᴅᴇᴏꜱ ɪɴ ᴛᴇʟᴇɢʀᴀᴍ ᴠᴏɪᴄᴇ ᴄʜᴀᴛ.
 
 <p align="center"><a href="https://t.me/OfficiallMeliodas"><img src="https://telegra.ph/file/6048be6ad973135ab1dce.jpg" width="300"></a></p>
 
