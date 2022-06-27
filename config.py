@@ -21,5 +21,5 @@ contact_filter = filters.create(
     or message.outgoing
 )
 
-bot = Client(SESSION, API_ID, API_HASH, plugins=dict(root="MusicAndVideo"))
+bot = Client(SESSION, API_ID, API_HASH, plugins=dict(root="MeliodasMusic"))
 call_py = PyTgCalls(bot)
